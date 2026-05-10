@@ -58,6 +58,4 @@ This project investigates the relationship between **trade openness and economic
 - **Excel** for data analysis and visualization
 - **World Bank WDI** as primary data source
 
----project report (PDF)
-└── README.md
 ```
