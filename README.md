@@ -28,11 +28,10 @@ This project investigates the relationship between **trade openness and economic
 ## Analysis & Approach
 1. Collected data from WDI for all variables across 200+ countries
 2. Cleaned and merged datasets using **Python (Pandas)**
-3. Removed outliers — Luxembourg (412%), Hong Kong (384%), Singapore (332%) — due to their roles as re-export and financial hubs
-4. Applied **log transformation** to GDP per capita to address right skewness
-5. Produced 6 visualizations including scatterplots, bar charts and histograms
-6. Analyzed relationships using fitted regression lines and R² values
-7. Provided actionable business and policy recommendations
+3. Applied **log transformation** to GDP per capita to address right skewness
+4. Produced 6 visualizations including scatterplots, bar charts and histograms
+5. Analyzed relationships using fitted regression lines and R² values
+6. Provided actionable business and policy recommendations
 
 ---
 
